@@ -1,29 +1,21 @@
-# Bus Out! — Puzzle Game Design Case Study
+# Bus Out! — Game Design Case Study
 
 ## Overview
 
-**Bus Out!** is a casual mobile puzzle game design case study focused on route planning, passenger matching, limited moves, and level progression.
+Bus Out! is a casual mobile puzzle game design case study inspired by bus-route planning and passenger-matching mechanics.
 
-The player manages a crowded bus station where buses and passengers are arranged in a limited space. The main goal is to move buses in the correct order, pick up matching passengers, and clear the level without running out of moves.
+The player manages a crowded bus station where buses are blocked in traffic and passengers are waiting in a strict queue. Each bus has a color and capacity, while passengers can only board buses of the same color. The player must dispatch buses in the correct order, use limited parking spots wisely, and avoid deadlock situations.
 
-This project was created as a game design portfolio piece to practice Game Design Document writing, core loop design, level design, balancing, player experience analysis, and basic playtesting.
+This project focuses on game design thinking, including core loop design, game mechanics, level progression, balancing, player experience, and paper-based playtesting.
 
 ## Project Goals
 
-- Practice writing a Game Design Document.
-- Design a clear core gameplay loop.
-- Define game mechanics, rules, win/lose conditions, and player goals.
-- Create sample puzzle levels with increasing difficulty.
-- Plan balancing factors such as move limits, obstacles, bus colors, and parking slots.
-- Conduct basic paper-based playtesting to evaluate rule clarity and player experience.
-
-## Deliverables
-
-- Game Design Document
-- Level Design Document
-- Balancing Sheet
-- Playtesting Notes
-- Sample level ideas
+- Create a clear Game Design Document.
+- Define core mechanics, game rules, win/lose conditions, and player goals.
+- Design sample puzzle levels with increasing difficulty.
+- Analyze player experience and possible deadlock situations.
+- Plan balancing factors such as bus colors, capacities, parking spots, obstacles, and move limits.
+- Practice paper-based playtesting and iteration.
 
 ## Key Design Areas
 
@@ -32,8 +24,16 @@ This project was created as a game design portfolio piece to practice Game Desig
 - Puzzle Mechanics
 - Level Design
 - Player Experience
-- Game Balancing
+- Balancing
 - Paper-based Playtesting
+
+## Deliverables
+
+- `docs/BusOut_GDD.md`
+- `docs/Level_Design.md`
+- `docs/Balancing_Sheet.csv`
+- `docs/Playtesting_Notes.md`
+- `docs/Sample_Level_Layouts.md`
 
 ## Target Platform
 
