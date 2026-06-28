@@ -1,0 +1,9 @@
+Level,Buses,Colors,Obstacles,Parking Slots,Move Limit,Difficulty,Design Goal
+1,1,1,0,0,3,Tutorial,Teach color matching
+2,2,2,1,0,5,Easy,Teach movement order
+3,3,2,1,1,7,Medium,Teach temporary parking slot
+4,4,3,2,1,10,Medium,Teach mixed passenger planning
+5,5,4,3,2,12,Hard,Combine all basic mechanics
+6,5,4,4,1,11,Hard,Increase pressure with fewer parking options
+7,6,4,4,2,14,Hard,Introduce multi-step planning
+8,6,5,5,2,15,Very Hard,Challenge advanced planning and color priority
