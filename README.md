@@ -1,5 +1,7 @@
 # Bus Out! — Game Design Case Study
 
+![Bus Out Game Design Overview](assets/images/bus-out-game-design-overview.png)
+
 ## Overview
 
 Bus Out! is a casual mobile puzzle game design case study inspired by bus-route planning and passenger-matching mechanics.
